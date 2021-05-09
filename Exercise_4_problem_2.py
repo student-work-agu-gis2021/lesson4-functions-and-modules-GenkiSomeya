@@ -27,7 +27,7 @@
 # YOUR CODE HERE to define temp_classifier
 def temp_classifier(temp_celsius):
   """
-    Function for temperature will be reclassified into integer numbers 0-3.
+    Function for classfiying temperature.
 
     parameters
     ----------
@@ -88,9 +88,9 @@ print("ok :)")
 #  - Does your function has an informative dosctring?
 
 # YOUR ANSWER HERE. Write your answer as comments
-#
-#
-#
+#1 Yes
+#2 Yes
+#3 Yes
 #
 #
 # YOUR ANSWER ENDS HERE
