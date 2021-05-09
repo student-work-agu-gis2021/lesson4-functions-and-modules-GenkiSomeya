@@ -43,7 +43,8 @@ print(fahr_to_celsius(71))
 #   
 # Write your answers below:
 
-# YOUR ANSWER HERE. Write your answers as comments
+#1 I understand the concept of function. 
+#2 Function can omit code.
 #
 #
 #
