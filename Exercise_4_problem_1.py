@@ -18,8 +18,9 @@
 # - Answering some questions about functions at the end of this problem
 # - Adding comments in your code and a docstring that explains how to use your `fahr_to_celsius` function (i.e., you should write the purpose of the function, parameters, and returned values)
 
-def fahr_to_celsius(temp):
-  return (temp-32)/1.8
+def fahr_to_celsius(temp_fahrenheit):
+  converted_temp=(temp_fahrenheit-32)/1.8
+  return converted_temp
 
 # ### Problem 1 tests
 # 
