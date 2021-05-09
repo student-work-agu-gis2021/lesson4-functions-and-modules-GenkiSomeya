@@ -26,7 +26,19 @@
 
 # YOUR CODE HERE to define temp_classifier
 def temp_classifier(temp_celsius):
+  """
+    Function for temperature will be reclassified into integer numbers 0-3.
 
+    parameters
+    ----------
+    temp_celsius:<numercal>
+      Temperature in Celsius
+
+    Returns
+    -------
+    <numerical>
+      Group number
+    """
 # Use your newly created function to print the answers to the following questions:
   if(temp_celsius<-2):
     return 0
